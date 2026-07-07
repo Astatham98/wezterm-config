@@ -20,7 +20,7 @@ return {
    cursor_blink_rate = 650,
 
    -- color scheme
-   colors = colors,
+   color_scheme = 'Tokyo Night Moon',
 
    -- background: pass in `true` if you want wezterm to start with focus mode on (no bg images)
    background = backdrops:initial_options({ no_img = false }),
