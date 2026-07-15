@@ -196,6 +196,7 @@ local keys = {
    { key = 'j',     mods = mod.SUPER_REV, action = act.ActivatePaneDirection('Down') },
    { key = 'h',     mods = mod.SUPER_REV, action = act.ActivatePaneDirection('Left') },
    { key = 'l',     mods = mod.SUPER_REV, action = act.ActivatePaneDirection('Right') },
+   { key = 'o',     mods = mod.SUPER_REV, action = act.PaneSelect },
    {
       key = 'p',
       mods = mod.SUPER_REV,
